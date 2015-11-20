@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "lib.h"
 
 int main ()
 {
-    printf("slniecko");
-    exit(0);
+    sviet(%s, SVET); 
+    return();
 }
 
