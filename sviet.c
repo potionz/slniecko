@@ -3,6 +3,6 @@
 
 void sviet(char *arg)
 {
-    printf("%s", arg);
+    printf("%s\n", arg);
 }
 

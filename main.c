@@ -4,7 +4,7 @@
 
 int main ()
 {
-    sviet(%s, SVET); 
-    return();
+    sviet(SVET); 
+    exit(0);
 }
 
